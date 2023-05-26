@@ -84,3 +84,59 @@ export const data = [
     ],
   },
 ];
+
+  const items = [
+    {
+      key: 0,
+      section: '',
+      value: 'All Reports',
+    },
+    {
+      key: 1,
+      section: 'General',
+      value: 'Company Snapshot',
+    }, {
+      key: 2,
+      section: 'General',
+      value: 'Turnover & Attrition',
+    }, {
+      key: 3,
+      section: 'General',
+      value: 'Birthday',
+    },
+    {
+      key: 4,
+      section: 'General',
+      value: 'Employment Anniversary',
+    },
+    {
+      key: 5,
+      section: 'Activity',
+      value: 'Time & Activity',
+    },
+    {
+      key: 6,
+      section: 'Activity',
+      value: 'Manual Time Edit',
+    },
+    {
+      key: 7,
+      section: 'Activity',
+      value: 'Untracked Activity',
+    },
+    {
+      key: 8,
+      section: 'Leave',
+      value: 'Upcoming Time Off',
+    },
+    {
+      key: 9,
+      section: 'Leave',
+      value: 'Leave Taken & Balance',
+    },
+    {
+      key: 10,
+      section: 'Leave',
+      value: 'Attendance & Absence',
+    },
+  ];
